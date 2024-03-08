@@ -1,0 +1,8 @@
+.educBox {
+  /* background-color: black; */
+  display: grid;
+  grid-template-columns: repeat(4, 0.6fr 1fr);
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+}
